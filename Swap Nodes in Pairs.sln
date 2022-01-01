@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Swap Nodes in Pairs", "Swap Nodes in Pairs\Swap Nodes in Pairs.vcxproj", "{82CC23E8-AA3F-4C80-AB47-14A7E2564E12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82CC23E8-AA3F-4C80-AB47-14A7E2564E12}.Debug|x64.ActiveCfg = Debug|x64
+		{82CC23E8-AA3F-4C80-AB47-14A7E2564E12}.Debug|x64.Build.0 = Debug|x64
+		{82CC23E8-AA3F-4C80-AB47-14A7E2564E12}.Debug|x86.ActiveCfg = Debug|Win32
+		{82CC23E8-AA3F-4C80-AB47-14A7E2564E12}.Debug|x86.Build.0 = Debug|Win32
+		{82CC23E8-AA3F-4C80-AB47-14A7E2564E12}.Release|x64.ActiveCfg = Release|x64
+		{82CC23E8-AA3F-4C80-AB47-14A7E2564E12}.Release|x64.Build.0 = Release|x64
+		{82CC23E8-AA3F-4C80-AB47-14A7E2564E12}.Release|x86.ActiveCfg = Release|Win32
+		{82CC23E8-AA3F-4C80-AB47-14A7E2564E12}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0B85519-B1B4-4205-9BAD-007C7299375E}
+	EndGlobalSection
+EndGlobal
